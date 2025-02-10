@@ -2,6 +2,9 @@
 flask-helloworld
 ================
 
+.. image:: https://raw.githubusercontent.com/macagua/flask-helloworld/master/docs/_static/flask-vertical.png
+   :class: image-inline
+
 Building a Hello World application with Flask.
 
 
@@ -40,4 +43,4 @@ Display a Hello World message, like the previous figure.
 References
 ==========
 
-- `Quickstart — Flask documentation <http://flask.pocoo.org/docs/1.0/quickstart/>`_.
+- `Quickstart — Flask documentation <https://flask.palletsprojects.com/en/stable/quickstart/>`_.
