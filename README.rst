@@ -25,6 +25,8 @@ Please execute the following commands:
     $ pip3 install -r requirements.txt
 
 
+----
+
 Running
 =======
 
@@ -41,7 +43,25 @@ Open at your Web browser the following link http://127.0.0.1:5000/
 
 Display a Hello World message, like the previous figure.
 
+
+----
+
+Testing
+=======
+
+To run the tests, please execute the following command:
+
+::
+
+    $ pytest -v
+
+
+This way you can check that the application is working correctly.
+
+----
+
 References
 ==========
 
 - `Quickstart — Flask documentation <https://flask.palletsprojects.com/en/stable/quickstart/>`_.
+- `Testing Flask Applications — Flask documentation <https://flask.palletsprojects.com/en/stable/testing/>`_.
