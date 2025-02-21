@@ -60,6 +60,33 @@ This way you can check that the application is working correctly.
 
 ----
 
+Building with Docker
+====================
+
+You can also build the image with `Docker <https://www.docker.com/>`_ to test the application, run the following command:
+
+::
+
+    $ docker build --tag=flask-helloworld .
+
+
+Create the container and run the application, execute the following command:
+
+::
+
+    $ docker run -d -p 5000:5000 --name flask-helloworld flask-helloworld
+
+
+Use an HTTP client such as ``curl`` to test the application via command line by executing the following command:
+
+::
+
+    $ curl localhost:5000
+
+Also you can open at your Web browser the following link http://127.0.0.1:5000/
+
+----
+
 References
 ==========
 
