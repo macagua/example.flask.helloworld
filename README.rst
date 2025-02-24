@@ -41,7 +41,7 @@ Open at your Web browser the following link http://127.0.0.1:5000/
 .. image:: https://raw.githubusercontent.com/macagua/flask-helloworld/master/docs/_static/flask-hello-world.png
    :class: image-inline
 
-Display a Hello World message, like the previous figure.
+Display a **Hello World** message, like the previous figure.
 
 
 ----
