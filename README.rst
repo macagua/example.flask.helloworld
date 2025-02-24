@@ -1,8 +1,8 @@
-================
-flask-helloworld
-================
+========================
+example.flask.helloworld
+========================
 
-.. image:: https://raw.githubusercontent.com/macagua/flask-helloworld/master/docs/_static/flask-vertical.png
+.. image:: https://raw.githubusercontent.com/macagua/example.flask.helloworld/master/docs/_static/flask-vertical.png
    :class: image-inline
 
 Building a Hello World application with Flask.
@@ -17,7 +17,7 @@ Please execute the following commands:
 
     $ sudo apt install -y python3-dev python3-pip python3-virtualenv
     $ sudo apt install -y git
-    $ git clone https://github.com/macagua/flask-helloworld.git
+    $ git clone https://github.com/macagua/example.flask.helloworld.git flask-helloworld
     $ cd ./flask-helloworld
     $ virtualenv --python /usr/bin/python3 venv
     $ source ./venv/bin/activate
