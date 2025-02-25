@@ -65,7 +65,7 @@ This way you can check that the application is working correctly.
 License
 ========
 
-This project is licensed under the MIT License - see the `LICENSE`_ file for details.
+This project is licensed under the MIT License - see the `LICENSE <./LICENSE>`_ file for details.
 
 
 ----
